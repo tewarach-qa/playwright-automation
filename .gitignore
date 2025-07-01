@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Playwright test results and reports
+test-results/
+playwright-report/
+
+# Logs
+*.log
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# TypeScript build cache
+*.tsbuildinfo
+
+# Editor config
+.vscode/
+
+# Environment file
+.env
+
+# Code coverage reports
+coverage/

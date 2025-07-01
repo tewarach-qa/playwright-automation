@@ -1,0 +1,21 @@
+{
+    "name": "tc01",
+    "email": "automate01.test@gmail.com",
+    "title": "Mr.",
+    "password": "P@ssw0rd",
+    "dateOfBirth": {
+        "day": "24",
+        "month": "4",
+        "year": "1997"
+    },
+    "firstName": "Automation",
+    "lastName": "UI",
+    "company": "Test Company",
+    "address1": "Test Address",
+    "address2": "Test Address 2",
+    "country": "New Zealand",
+    "state": "Test State",
+    "city": "Test City",
+    "zipcode": "Test Zipcode",
+    "mobileNumber": "0839489191"
+}
